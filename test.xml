@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<documents>
+    <document>
+        <attribute>
+            <adobe_offer_classification>Annual Plan w Trial</adobe_offer_classification>
+            <country>US</country>
+        </attribute>
+        <base_term_chargeable>yes</base_term_chargeable>
+        <base_term_end>2147403599</base_term_end>
+        <base_term_perpetual>no</base_term_perpetual>
+        <base_term_renew_type>manual</base_term_renew_type>
+        <base_term_start>1487307600</base_term_start>
+        <definition_key>Annual_30DT_Manual_US</definition_key>
+        <description>Annual with 30 Day Trial, Manual Renew</description>
+        <display_name>Annual with 30 Day Trial, Manual Renew</display_name>
+        <effective_date>1484678121</effective_date>
+        <entity_key>annual_30dt_manual-893F3E55-E525-4BDA-D891-6732D11C4144</entity_key>
+        <input_date>1484629200</input_date>
+        <intro_term_chargeable>yes</intro_term_chargeable>
+        <intro_term_convert>auto</intro_term_convert>
+        <intro_term_enabled>yes</intro_term_enabled>
+        <intro_term_end>1487221200</intro_term_end>
+        <intro_term_start>1484629200</intro_term_start>
+        <lineitems>
+            <lineitem>
+                <lineitem_object_type>stage</lineitem_object_type>
+                <entity_key>upsell_window_0_90</entity_key>
+                <line_instance_id>upsell_window_0_90-AE99572D-AA81-2452-C43A-16E13EE9FD3F</line_instance_id>
+                <state>valid</state>
+                <description/>
+                <chargeable>yes</chargeable>
+                <start_date>1487307600</start_date>
+                <end_date>1495080000</end_date>
+                <milestone_date/>
+                <attribute/>
+            </lineitem>
+            <lineitem>
+                <lineitem_object_type>milestone</lineitem_object_type>
+                <entity_key>ms_cancel_by</entity_key>
+                <line_instance_id>ms_cancel_by-6EB62BAA-E235-FBB9-4EC1-E94C4507141B</line_instance_id>
+                <state>valid</state>
+                <description/>
+                <chargeable/>
+                <start_date>1491192000</start_date>
+                <end_date/>
+                <milestone_date>1491192000</milestone_date>
+                <attribute>
+                    <cancel_policy>Cancel With Refund</cancel_policy>
+                    <message_type>Adobe Cancel 001</message_type>
+                </attribute>
+            </lineitem>
+        </lineitems>
+        <renewal_term_lifecycle>0</renewal_term_lifecycle>
+        <status>pending</status>
+        <unique_row_id>6464</unique_row_id>
+        <associated_object_id>AC_AM_1234</associated_object_id>
+        <associated_object_type>product</associated_object_type>
+    </document>
+</documents>
